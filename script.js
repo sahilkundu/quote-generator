@@ -15,10 +15,6 @@ function complete() {
         loader.hidden = true;
     }
 };
-// function cpy(){
-//     const cpyText = `${quoteText} : ${quoteAuthor}`;
-//      console.log(cpyText);
-// }
 
 async function getQuote() {
     loading();
